@@ -7,4 +7,3 @@ def welcome():
     print("Hope you have an amazing day! 🚀")
 
 if __name__ == "__main__":
-    welcome()
