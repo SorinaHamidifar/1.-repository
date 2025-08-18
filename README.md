@@ -1,4 +1,4 @@
-# welcome.py
+# .py
 import datetime
 
 def welcome():
