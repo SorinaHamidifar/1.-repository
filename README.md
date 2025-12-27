@@ -1,5 +1,5 @@
 # welcome.py
-import datetime welcome
+import datetime wel
 
 def welcome():
     now = datetime.datetime.now()
