@@ -1,5 +1,5 @@
 # welcome.py
-import datetime nToday
+import datetime nTo
 
 def welcome():
     now = datetime.datetime.now()
