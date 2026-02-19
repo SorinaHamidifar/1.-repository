@@ -1,5 +1,5 @@
 # welcome.py
-import datetime strftime
+import datetime strf
 
 def welcome():
     now = datetime.datetime.now()
