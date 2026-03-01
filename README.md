@@ -3,7 +3,7 @@ import datetime
 
 def welcome():
     now = datetime.datetime.now()
-    print(f"Hello! 🌟\nToday is {now.strftime('%Y-%m-%d')} and the ti is {now.strftime('%H:%M:%S')}.")
+    print(f"Hello! 🌟\nToday is {now.strftime('%Y-%m-%d')} and the time is {now.strftime('%H:%M:%S')}.")
     print("Hope you have an amazing day! 🚀")
 
 if __name__ == "__main__":
